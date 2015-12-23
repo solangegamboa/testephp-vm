@@ -2,7 +2,7 @@
 
 Máquina virtual do Teste PHP.
 
-VirtualBox + Ubuntu 14.04.3 LTS 64X
+VirtualBox + Ubuntu 14.04.3 LTS x64
 
 #### Necessário
   10GB de espaço em disco.
